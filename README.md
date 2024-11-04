@@ -7,8 +7,9 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor fullstack  apaixonado por tecnolog
 <p>
   🌱 Atualmente aprendendo:
   <div style="display: inline-block; margin-left: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" align="center" alt="Godot Engine" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" align="center"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot Engine" width="40" align="center" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" align="center"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" align="center"/>
   </div>
 </p>
 

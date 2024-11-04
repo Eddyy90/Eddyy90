@@ -4,10 +4,13 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor fullstack  apaixonado por tecnolog
 
 ## Sobre Mim
 
-- 🌱 Atualmente aprendendo:<div></div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="40" align="center" alt="Godot Engine" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" align="center"/>
-
+<p>
+  🌱 Atualmente aprendendo:
+  <div style="display: inline-block; margin-left: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" align="center" alt="Godot Engine" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" align="center"/>
+  </div>
+</p>
 
 - 📫 Como me encontrar: edersonvaniery23@gmail.com
 - ⚡ Curiosidade: Sou apaixonado por Arduino e uma vez construí um sistema de irrigação automatizado. Adoro resolver os desafios que surgem na programação, sempre buscando aprender algo novo e encontrar soluções criativas para problemas complexos!

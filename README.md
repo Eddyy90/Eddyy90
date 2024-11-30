@@ -1,6 +1,7 @@
 # Olá, eu sou Éderson 👋
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor fullstack  apaixonado por tecnologia e suas vastas soluções. Aqui você encontrará alguns dos meus projetos e as ferramentas que utilizo.
+Bem-vindo ao meu perfil! Sou um desenvolvedor fullstack com especialidade em python e django, sou completamente apaixonado por resolver problemas utilizando a tecnologia e suas vastas soluções. 
+Aqui você encontrará alguns dos meus projetos e as ferramentas que utilizo.
 
 ## Sobre Mim
 

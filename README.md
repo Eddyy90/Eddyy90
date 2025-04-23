@@ -36,15 +36,6 @@ Aqui você encontrará alguns dos meus projetos e as ferramentas que utilizo.
 </div> 
 
 
-
-## Meus Projetos
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- [Projeto 1](link_do_projeto_1) - Uma breve descrição do projeto.
-- [Projeto 2](link_do_projeto_2) - Uma breve descrição do projeto.
-- [Projeto 3](link_do_projeto_3) - Uma breve descrição do projeto.
-
 ## GitHub Stats
 
 [![Edddy90 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddyy90&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/Eddyy90)
@@ -57,5 +48,5 @@ Sinta-se à vontade para explorar, colaborar e contribuir com meus projetos!
 
 ---
 
-🔗 Conecte-se comigo: [LinkedIn](link_do_linkedin)
+🔗 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/ederson-vaniery-91218b176/)
 

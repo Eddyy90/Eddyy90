@@ -35,10 +35,8 @@ Aqui você encontrará alguns dos meus projetos e as ferramentas que utilizo.
 
 
 ## GitHub Stats
-
-[![Edddy90 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eddyy90&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/Eddyy90)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddyy90&layout=pie&theme=tokyonight&locale=pt-br)](https://github.com/Eddyy90)
-
+![Eddyy90's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eddyy90&theme=nightowl&hide_border=false)
+![Eddyy90's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddyy90&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 ## Contribuições
 
